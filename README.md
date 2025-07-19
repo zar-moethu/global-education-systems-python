@@ -5,16 +5,16 @@
 This project aims to understand how international student mobility is related to the level of globalisation and the structure of higher education systems across countries in 2019.
 We apply unsupervised learning, specifically clustering analysis, to group countries based on similarities in:
 
-*Education system characteristics, including:*
-     - ISCED Participation Levels (Levels 5 to 8)
-     - QS World University Rankings (Top 50, 100, 500, 1000)
+**Education system characteristics**, including:  
+- ISCED Participation Levels (Levels 5 to 8)
+- QS World University Rankings (Top 50, 100, 500, 1000)
 
 *Globalisation indices*:
     - Political Globalisation Index (KOFPoGI)
     - Economic Globalisation Index (KOFEcGI)
     - Social Globalisation Index (KOFSoGI)
 
-### Why Do We Use Unsupervised Learning in This Project?
+#### Why Do We Use Unsupervised Learning in This Project?
 - Unsupervised learning is used to group similar data points into clusters without any predefined labels or categories.
 - In this project, it helps uncover natural groupings of countries that show similar patterns in education systems and level of globalisation indices.
 - This allows us to explore and compare international education trends in a data-driven way.
