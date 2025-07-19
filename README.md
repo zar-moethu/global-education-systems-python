@@ -10,9 +10,9 @@ We apply unsupervised learning, specifically clustering analysis, to group count
 - QS World University Rankings (Top 50, 100, 500, 1000)
 
 **Globalisation indices**, including:
-    - Political Globalisation Index (KOFPoGI)
-    - Economic Globalisation Index (KOFEcGI)
-    - Social Globalisation Index (KOFSoGI)
+- Political Globalisation Index (KOFPoGI)
+- Economic Globalisation Index (KOFEcGI)
+- Social Globalisation Index (KOFSoGI)
 
 #### Why Do We Use Unsupervised Learning in This Project?
 - Unsupervised learning is used to group similar data points into clusters without any predefined labels or categories.
