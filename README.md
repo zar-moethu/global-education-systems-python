@@ -1,4 +1,5 @@
-# Clustering Analysis of Global Higher Education Systems using Python and Excel
+# Global Higher Education Clustering with Python: Data Preprocessing, Clustering Analysis and Excel Reporting
+
 
 ## 📘 Data Dictionary
 
