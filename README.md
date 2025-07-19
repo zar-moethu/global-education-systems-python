@@ -1,4 +1,5 @@
-# education-systems-python-excel
+# Clustering Analysis of Global Higher Education Systems using Python and Excel
+
 ## 📘 Data Dictionary
 
 This project uses a merged dataset combining international student mobility, higher education participation, globalisation indices, and institutional rankings. The following variables are used in this analysis:
