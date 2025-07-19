@@ -37,7 +37,7 @@ The following features/variables are used in this analysis:
 | `top 100 count`          | Number of universities ranked in the QS Top 100                             |
 | `top 500 count`          | Number of universities ranked in the QS Top 500                             |
 | `top 1000 count`         | Number of universities ranked in the QS Top 1000                            |
-| `WESP`                   | World Economic Situation and Prospects 2021 grouping or economic tier       |
+| `WESP`                   | World Economic Situation and Prospects|
 
 **Note:**  
 Other decomposed KOF indicators (e.g. KOFGIdf, KOFTrGIdj, etc.) exist in the full dataset but are not used in this study for simplicity and relevance. This project focuses on understanding how globalisation and higher education metrics relate to inbound student mobility and university rankings.
