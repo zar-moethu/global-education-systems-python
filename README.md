@@ -9,7 +9,7 @@ We apply unsupervised learning, specifically clustering analysis, to group count
 - ISCED Participation Levels (Levels 5 to 8)
 - QS World University Rankings (Top 50, 100, 500, 1000)
 
-*Globalisation indices*:
+**Globalisation indices**, including:
     - Political Globalisation Index (KOFPoGI)
     - Economic Globalisation Index (KOFEcGI)
     - Social Globalisation Index (KOFSoGI)
