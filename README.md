@@ -19,7 +19,7 @@ We apply unsupervised learning, specifically clustering analysis, to group count
 - In this project, it helps uncover natural groupings of countries that show similar patterns in education systems and level of globalisation indices.
 - This allows us to explore and compare international education trends in a data-driven way.
 
-### Data Dictionary 
+### Data Dictionary
 The following features/variables are used in this analysis:
 
 | Variable Name            | Description                                                                 |
@@ -48,3 +48,30 @@ Other decomposed KOF indicators (e.g. KOFGIdf, KOFTrGIdj, etc.) exist in the ful
 - Selected features/variables based on the defined data dictionary.
 - Removed rows with missing values to ensure data integrity for clustering
 - Standardised all numerical features using StandardScaler to ensure equal contribution during clustering.
+
+### Exploratory Data Analysis (EDA)
+
+To understand the data structure and identify patterns before clustering, we performed:
+
+**Summary statistics:**  
+• Reviewed distributions, ranges, and central tendencies for all numerical features.
+
+<img width="1032" height="409" alt="Screenshot 2025-07-19 at 22 44 22" src="https://github.com/user-attachments/assets/7dc4d0e0-776d-41e0-8773-d6bb68c41db4" />
+
+**Visualisation of Education Levels by Country
+
+<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/492bf821-709b-469e-a076-09f427a52076" />
+:**  
+• Plotted ISCED participation levels by country to compare education structures.  
+• Visualised QS World University Rankings (Top 50, 100, 500, 1000) using stacked bar charts.
+
+<img width="1490" height="590" alt="output_9_0" src="https://github.com/user-attachments/assets/0a46fba4-0544-4245-93fa-eecc3faeb075" />
+
+** Visualise University Rankings by Country:**  
+• Compared countries based on Political, Economic, and Social Globalisation Indices.  
+• Detected patterns and outliers that could influence cluster behaviour.
+
+
+
+<img width="987" height="1189" alt="output_10_0" src="https://github.com/user-attachments/assets/73229a78-f7e7-438d-955b-0bb234024aa2" />
+
