@@ -1,6 +1,12 @@
 # Global Higher Education Clustering with Python: Data Preprocessing, Clustering Analysis and Excel Reporting
 
 
+### Project Overview
+This project explores to study the international student flow and its relationship with the level of globalisation of countries and their national higher educational
+systems in 2019 by analyzing country-level data. The aim is to identify patterns, clean and visualize the data, and applying alogoriing clustering analysis to uncover groupings of countries with similar educational and globalisation profiles.
+
+
+
 ## 📘 Data Dictionary
 
 This project uses a merged dataset combining international student mobility, higher education participation, globalisation indices, and institutional rankings. The following variables are used in this analysis:
