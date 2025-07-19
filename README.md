@@ -58,18 +58,20 @@ To understand the data structure and identify patterns before clustering, we per
 
 <img width="1032" height="409" alt="Screenshot 2025-07-19 at 22 44 22" src="https://github.com/user-attachments/assets/7dc4d0e0-776d-41e0-8773-d6bb68c41db4" />
 
-**Visualisation of Education Levels by Country
+**Visualisation - Percentage Distribution of Education Levels by Country**
+
+• Compared participation rates in ISCED Levels 5 to 8 across countries.
+• Used a vertical stacked bar chart to show the distribution of tertiary education participation by level.
 
 <img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/492bf821-709b-469e-a076-09f427a52076" />
-:**  
-• Plotted ISCED participation levels by country to compare education structures.  
-• Visualised QS World University Rankings (Top 50, 100, 500, 1000) using stacked bar charts.
+
+
+
+
 
 <img width="1490" height="590" alt="output_9_0" src="https://github.com/user-attachments/assets/0a46fba4-0544-4245-93fa-eecc3faeb075" />
 
-** Visualise University Rankings by Country:**  
-• Compared countries based on Political, Economic, and Social Globalisation Indices.  
-• Detected patterns and outliers that could influence cluster behaviour.
+** Visulisation - Percentage Distribution of University Rankings by Country:**  
 
 
 
