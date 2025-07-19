@@ -64,7 +64,7 @@ To understand the data structure and identify patterns before clustering, we per
 
 - This visual below shows that some countries have a more balanced distribution across all ISCED levels, while others are heavily concentrated in certain tiers (e.g., Bachelor’s or Master’s level).
 - Australia and Sweden, both classified as developed countries (WESP), show high overall tertiary participation, with significant contributions across multiple ISCED levels, indicating a more developed and layered higher education system.
-- Turkey shows relatively even participation across short-cycle tertiary (e.g., associate degree, foundation degree), bachelor’s and master’s levels (ISCED levels 5, 6, and 7 respectively), but comparatively limited engagement at the doctoral level (ISCED 8).
+- Turkey shows relatively even participation across short-cycle tertiary (e.g., associate degree, foundation degree), bachelor’s, and master’s levels (ISCED levels 5, 6, and 7 respectively), but comparatively limited engagement at the doctoral level (ISCED 8).
 
 <img width="1490" height="590" alt="output_9_0" src="https://github.com/user-attachments/assets/0a46fba4-0544-4245-93fa-eecc3faeb075" />
 
