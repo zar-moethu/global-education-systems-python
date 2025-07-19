@@ -1,4 +1,4 @@
-# Global Higher Education Clustering Analysis with Python: Unsupervised Learning Algorithm
+## Global Higher Education Clustering Analysis with Python: Unsupervised Learning Algorithm
 
 ### Project Overview
 This project aims to understand how international student mobility is related to the level of globalisation and the structure of higher education systems across countries in 2019.
