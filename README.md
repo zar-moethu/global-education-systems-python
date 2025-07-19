@@ -14,8 +14,8 @@ We apply unsupervised learning, specifically clustering analysis, to group count
 - Economic Globalisation Index (KOFEcGI)
 - Social Globalisation Index (KOFSoGI)
 
-#### Why Do We Use Unsupervised Learning in This Project?
-- Unsupervised learning is used to group similar data points into clusters without any predefined labels or categories.
+#### Why do we use unsupervised learning algorithm?
+- Unsupervised learning algorithm is used to group similar data points into clusters without any predefined labels or categories.
 - In this project, it helps uncover natural groupings of countries that show similar patterns in education systems and level of globalisation indices.
 - This allows us to explore and compare international education trends in a data-driven way.
 
