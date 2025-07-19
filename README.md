@@ -63,13 +63,8 @@ To understand the data structure and identify patterns before clustering, we per
 - Compared participation rates in ISCED Levels 5 to 8 across countries.  
 - Used a vertical stacked bar chart to show the distribution of tertiary education participation by level.
 
-
-<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/492bf821-709b-469e-a076-09f427a52076" />
-
-
 - This visual below shows that some countries have a more balanced distribution across all ISCED levels, while others are heavily concentrated in certain tiers (e.g., Bachelor’s or Master’s level).
-- Australia and Sweden, both classified as developed countries (WESP) show high overall tertiary participation, with significant contributions across multiple ISCED levels, indicating a more developed and layered higher education system.
-
+- Australia and Sweden, both classified as developed countries (WESP), show high overall tertiary participation, with significant contributions across multiple ISCED levels, indicating a more developed and layered higher education system.
 
 <img width="1490" height="590" alt="output_9_0" src="https://github.com/user-attachments/assets/0a46fba4-0544-4245-93fa-eecc3faeb075" />
 
