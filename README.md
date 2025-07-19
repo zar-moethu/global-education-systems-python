@@ -1,19 +1,30 @@
-# Global Higher Education Clustering with Python: Data Preprocessing, Clustering Analysis and Excel Reporting
+# Global Higher Education Clustering with Python: Clustering Analyis Algorithm
 
 
 ### Project Overview
-This project explores to study the international student flow and its relationship with the level of globalisation of countries and their national higher educational
-systems in 2019 by analyzing country-level data. The aim is to identify patterns, clean and visualize the data, and applying alogoriing clustering analysis to uncover groupings of countries with similar educational and globalisation profiles.
+This project aims to understand how international student mobility is related to the level of globalisation and the structure of higher education systems across countries in 2019.
+We apply unsupervised learning, specifically clustering analysis, to group countries based on similarities in:
 
+*Education system characteristics, including:*
+     - ISCED Participation Levels (Levels 5 to 8)
+     - QS World University Rankings (Top 50, 100, 500, 1000)
 
+*Globalisation indices*:
+    - Political Globalisation Index (KOFPoGI)
+    - Economic Globalisation Index (KOFEcGI)
+    - Social Globalisation Index (KOFSoGI)
 
-## 📘 Data Dictionary
+### Why Do We Use Unsupervised Learning in This Project?
+- Unsupervised learning is used to group similar data points into clusters without any predefined labels or categories.
+- In this project, it helps uncover natural groupings of countries that show similar patterns in education systems and level of globalisation indices.
+- This allows us to explore and compare international education trends in a data-driven way.
 
-This project uses a merged dataset combining international student mobility, higher education participation, globalisation indices, and institutional rankings. The following variables are used in this analysis:
+### Data Dictionary 
+The following features/variables are used in this analysis:
 
 | Variable Name            | Description                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
-| `country_x`              | Country name (from the merged dataset)                                      |
+| `country_x`              | Country name                                     |
 | `InboundRatio`           | Inbound mobility rate for international students (% of tertiary enrolment) |
 | `InternationalStudentsNO`| Total number of international students enrolled                             |
 | `KOFPoGI`                | Political Globalisation Index (from KOF Globalisation Index)                |
@@ -32,4 +43,8 @@ This project uses a merged dataset combining international student mobility, hig
 **Note:**  
 Other decomposed KOF indicators (e.g. KOFGIdf, KOFTrGIdj, etc.) exist in the full dataset but are not used in this study for simplicity and relevance. This project focuses on understanding how globalisation and higher education metrics relate to inbound student mobility and university rankings.
 
-
+### Data Cleaning and Preparation
+- Checked for missing values across selected features/variables
+- Selected features/variables based on the defined data dictionary.
+- Removed rows with missing values to ensure data integrity for clustering
+- Standardised all numerical features using StandardScaler to ensure equal contribution during clustering.
