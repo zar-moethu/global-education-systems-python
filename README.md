@@ -54,11 +54,11 @@ To understand the data structure and identify patterns before clustering, we per
 
 **Summary statistics:**  
 
-Across the 42 countries studied, several key patterns emerge in relation to international student engagement:
+Across the 42 countries studied, several key patterns examined in relation to international student engagement:
 
 - On average, 9% of all students enrolled in tertiary education are international students, though this varies widely — from as low as 0.22% to as high as 35.29%, depending on the country. The number of international students also differs significantly: while the average is 117,317 students, some countries host nearly one million (maximum = 976,562), while others have only a few thousand.
-- Bachelor’s level (ISCED 6) dominates tertiary education systems, with an average share of 45.24%, while Master’s level (ISCED 7) follows at 14.23%.
-- Doctoral-level participation (ISCED 8) is the smallest segment, averaging just 2.10%. Most countries fall between 0.00% and 5.15%, suggesting this level remains specialised and selective due to longer study duration, competitive entry and limited institutional capacity or funding.
+- Bachelor’s level (ISCED 6) dominated tertiary education systems, with an average share of 45.24%, while Master’s level (ISCED 7) follows at 14.23%.
+- Doctoral level  tertiary education  participation (ISCED 8) is the smallest segment, averaging just 2.10%. Most countries fall between 0.00% and 5.15%, suggesting this level remains specialised and selective due to longer study duration, competitive entry and limited institutional capacity or funding.
 - Overall globalisation indices are relatively high across the sample, with political = 84.95, economic = 71.98 and social = 79.98 on average.
 
 <img width="790" height="408" alt="Screenshot 2025-07-20 at 13 54 10" src="https://github.com/user-attachments/assets/862a6d1f-e139-40d7-9038-2d353d5b6c34" />
@@ -66,23 +66,19 @@ Across the 42 countries studied, several key patterns emerge in relation to inte
 **Visualisation - Percentage Distribution of Education Levels by Country:**
 
 - Compared participation rates in ISCED Levels 5 to 8 across countries using a vertical stacked bar chart to show the distribution of tertiary education participation by level.
-
-- The visual shows that some countries have a more balanced distribution across all ISCED levels, while others are heavily concentrated in certain tiers (e.g. bachelor’s or master’s level).
-
-- Australia and Sweden, both classified as developed countries (WESP), show high overall tertiary participation with significant contributions across multiple ISCED levels, indicating a more developed and layered higher education system.
-
-- Turkey shows relatively even participation across short-cycle tertiary (e.g. associate degree or foundation degree), bachelor’s and master’s levels (ISCED Levels 5, 6 and 7 respectively), but comparatively limited engagement at the doctoral level (ISCED 8).
+- The visual below indicated that some countries had a more balanced distribution across all ISCED levels, while others were heavily concentrated in certain tiers (e.g. bachelor’s or master’s level).
+- Australia and Sweden, both classified as developed countries (WESP), showed high overall tertiary participation, with significant contributions across multiple ISCED levels, indicating a more developed and layered higher education system.
+- Turkey showed relatively even participation across short-cycle tertiary (e.g. associate degree or foundation degree), bachelor’s and master’s levels (ISCED Levels 5, 6 and 7 respectively), but comparatively limited engagement at the doctoral level (ISCED 8)..
 
 <img width="1490" height="590" alt="output_9_0" src="https://github.com/user-attachments/assets/0a46fba4-0544-4245-93fa-eecc3faeb075" />
 
 **Visulisation - Percentage Distribution of University Rankings by Country:**  
+- Compared the percentage distribution of universities ranked in the top 50, top 100, top 500 and top 1000 across countries using a horizontal stacked bar chart.
+- The visual showed that some countries (e.g. Jordan, Latvia, Slovakia, Romania and Slovenia) had all of their ranked universities only in the top 1000 tier, highlighting limited presence in tiers with higher rankings.
+- In contrast, countries like Ireland, Finland and Germany demonstrated a more even spread of university representation across the top 100 and top 500 tiers, suggesting broader academic strength.
+- New Zealand showed a strong mid-tier presence, with nearly half of its ranked universities falling in the top 500 tier and the rest in the top 1000. Only 6% of its universities appeared in the top 50.
+- Countries such as the United States, United Kingdom, Switzerland and Australia showed stronger representation in the top 50 and top 100, indicating a significant share of world-leading institutions.
 
-Compared the number of universities ranked in the Top 50, Top 100, Top 500, and Top 1000 across countries.
 
-Used a vertical stacked bar chart to show how each country contributes to global university rankings at different tiers.
-
-🔍 Key Insight:
-Countries like the United States, United Kingdom, and Australia dominate the top tiers, with multiple universities in the Top 50 and Top 100, highlighting their global academic reputation and strong higher education infrastructure.
-
-<img width="987" height="1189" alt="output_10_0" src="https://github.com/user-attachments/assets/73229a78-f7e7-438d-955b-0bb234024aa2" />
+<img width="987" height="1189" alt="output_10_0" src="https://github.com/user-attachments/assets/e7b732d2-3141-45a4-aada-800a5a2af8ff" />
 
