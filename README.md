@@ -130,7 +130,8 @@ The insights in this analysis highlighted and demonstrated the value of a data-d
 
 **Project Files**
 
-Power BI Dashboard File (Click on View Raw):
+[View Python_Code.ipynb](https://github.com/zar-moethu/world-education-systems-python/blob/main/Python_Code.ipynb)
+
 WeatherDashboard.pbix
 
 Dashboard Overview (PDF Preview):
