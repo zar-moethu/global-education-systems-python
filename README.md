@@ -51,7 +51,7 @@ Other decomposed KOF indicators (e.g. KOFGIdf, KOFTrGIdj, etc.) exist in the ful
 
 To understand the data structure and identify patterns before applying clustering analysis, we conducted:
 
-**4.1 Summary statistics:**  
+**4.1 Summary statistics**  
 
 Across the 42 countries studied, several key patterns were observed in relation to international student engagement:
 
@@ -135,33 +135,20 @@ The insights in this analysis highlighted and demonstrated the value of a data-d
 
 **Project Files**
 
-*Python Code*:
+*- Python Code*:
   [View Python_Code.ipynb](https://github.com/zar-moethu/world-education-systems-python/blob/main/Python_Code.ipynb)
 
-*Dataset*:
+*- Dataset*:
 [Download raw file](https://github.com/zar-moethu/world-education-systems-python/raw/main/dataset.xlsx)
 
-*Output Visuals*:
+*- Output Visuals*:
 [Output folder](https://github.com/zar-moethu/world-education-systems-python/tree/main/Output).
 
 
-WeatherDashboard.pbix
+**📘How to Use This**
 
-Dashboard Overview (PDF Preview):
-Dashboard Overview (PDF)
-
-How to use this project:
-
-Refresh the Power BI dashbord file to pull the latest API data. This ensures you're working with real-time information.
-
-Data analysis is an ongoing process and continuous improvement and innovation are key to long-term success. I believe every analyst’s journey is strengthened by an open mindset and a willingness to receive feedback. I welcome your thoughts, suggestions and collaboration on this project.
-
-Feel free to download, explore, and adapt it to better understand how real-time data can be modeled and visualized in Power BI.
+- Data analysis is an ongoing learning journey, focused on exploring data meaningfully rather than producing a finalised or commercial product.
+- This work is a living document, open to iteration, feedback and collaboration, as its value lies not only in the results but also in the learning that comes from the process of discovery.
+- Feel free to download the code, dataset and explore the notebooks or visualisations for your own learning or inspiration.
 
 ⚠️ Disclaimer: This dashboard is intended for visual learning and demonstration purposes only — not for business or operational use.
-
-**How to use this**
-
-- This analysis was carried out as part of an ongoing learning journey, with the purpose of exploring data meaningfully rather than producing a finalised or commercial product.
-- It represents a study-based project where the focus is on understanding patterns through Unsupervised Learning Algorithm and clustering analysis
-- This work is a living document, open to iteration, feedback and collaboration, as its value lies not only in the results but also in the learning that comes from the process of discovery.
