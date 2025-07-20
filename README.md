@@ -87,10 +87,26 @@ This section used clustering analysis to explore how countries naturally group b
 
 **5.1  Identifying Optimal Clusters Using K-Means Clustering (Elbow Curve)**
 
-- Before applying clustering analysis, we needed to decide how many meaningful groups (clusters) to divide the countries into.
-- We used the "Elbow Curve" to determine the optimal number of clusters. The "elbow point" is where the curve starts to flatten, meaning adding more clusters beyond this point leads to only minor improvements in reducing the sum of squared errors.
-- We plotted values of k from 1 to 10 and identified the "elbow point" at k = 3. This suggests that dividing countries into three groups provided meaningful insights without overcomplicating the analysis.
-- This approach supports the unsupervised learning goal of allowing the data to naturally form patterns without using predefined categories.
+- Before applying clustering analysis, we excluded the country_x and WESP variables as they are non-numeric and not suitable for clustering algorithms that require numerical input.
+- All remaining variables were standardized to ensure fair comparison across different scales.
+- We then needed to decide how many meaningful groups (clusters) to divide the countries into.
+- The “Elbow Curve” method was used to determine the optimal number of clusters. The elbow point is where the curve starts to flatten, indicating that adding more clusters beyond this point provides only marginal improvement in reducing within-cluster variance.
+- We plotted k-values from 1 to 10 and observed that the elbow occurred at k = 3. This suggested that dividing the countries into three clusters captured key patterns without overfitting.
+- This method aligns with the goal of unsupervised learning — allowing natural groupings to emerge from the data without relying on predefined categories.
+
 <img width="989" height="490" alt="output_12_0" src="https://github.com/user-attachments/assets/e3768ced-f33b-496c-b7e9-12db4ae58c20" />
 
-** 5.2
+**5.2 Exploring Country Groupings Using Hierarchical Clustering (Dendrogram)** 
+
+- After identifying that three clusters were optimal using the Elbow Method, we further explored the natural structure of the data using Hierarchical Clustering. This method produces a dendrogram, a  tree-like structure diagram showing how countries are grouped based on similarity across the following indicators:
+  - International student mobility,
+  - Tertiary education participation (ISCED 5–8),
+  - QS World University Rankings (Top 50, 100, 500, 1000),
+  - Inbound ratio and number of international students, and
+  - Globalisation indices (Political, Economic and Social Globalisation Index).
+
+- Key interpretation points:
+  - Countries that merged at shorter horizontal distances were more similar to each other in their overall profiles across all indicators.
+  - The  color bands (e.g., green, blue, orange) represented how countries were grouped together at different levels of similarity. They helped illustrate the hierarchy of clusters formed during the clustering process.
+
+<img width="895" height="583" alt="Screenshot 2025-07-20 at 17 39 02" src="https://github.com/user-attachments/assets/1cb957e7-097b-4c7d-bd59-99f0928e8d9e" />
