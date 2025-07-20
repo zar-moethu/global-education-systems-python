@@ -68,7 +68,7 @@ Across the 42 countries studied, several key patterns were observed in relation 
 - Australia and Sweden, both classified as developed countries (WESP), showed high overall tertiary participation, with significant contributions across multiple ISCED levels, indicating a more developed and layered higher education system.
 - Turkey showed relatively even participation across short-cycle tertiary (e.g. associate degree or foundation degree), bachelor’s and master’s levels (ISCED Levels 5, 6 and 7 respectively), but comparatively limited engagement at the doctoral level (ISCED 8)..
 
-<img width="1490" height="590" alt="output_9_0" src="https://github.com/user-attachments/assets/92d04227-1ccc-45f5-b310-6a26a9467fd5" />
+<img width="1490" height="590" alt="output_9_0" src="https://github.com/user-attachments/assets/c47afe81-9f52-4b40-96f9-80f4de899a37" />
 
 
 **4.3 Visulisation - Percentage Distribution of University Rankings by Country:**  
@@ -78,6 +78,6 @@ Across the 42 countries studied, several key patterns were observed in relation 
 - New Zealand showed a strong mid-tier presence, with nearly half of its ranked universities falling in the top 500 tier and the rest in the top 1000. Only 6% of its universities appeared in the top 50.
 - Countries such as the United States, United Kingdom, Switzerland and Australia showed stronger representation in the top 50 and top 100, indicating a significant share of world-leading institutions.
   
-<img width="987" height="1189" alt="output_10_0" src="https://github.com/user-attachments/assets/0ad405a8-899f-4439-a965-b68ef240443f" />
+<img width="987" height="1189" alt="output_10_0" src="https://github.com/user-attachments/assets/6407b74c-8256-43fe-8354-e15ff5fdfe36" />
 
 ### 5. Data Analysis – Discovering Patterns Using Unsupervised learning clustering
