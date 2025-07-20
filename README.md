@@ -141,8 +141,8 @@ The insights in this analysis highlighted and demonstrated the value of a data-d
 *- Dataset*:
 [Download raw file](https://github.com/zar-moethu/world-education-systems-python/raw/main/dataset.xlsx)
 
-*- Output Visuals*:
-[Output folder](https://github.com/zar-moethu/world-education-systems-python/tree/main/Output).
+*-Visuals*:
+[View Output folder](https://github.com/zar-moethu/world-education-systems-python/tree/main/Output).
 
 
 **📘How to Use This**
