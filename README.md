@@ -127,3 +127,9 @@ Key insights:
 **Conclusion**
 
 The insights in this analysis highlighted and demonstrated the value of a data-driven approach using unsupervised learning clustering to examine how combining globalisation indicators and education system characteristics can uncover meaningful natural patterns in international student mobility, without relying on predefined categories. Clustering analysis enabled natural groupings to emerge from the data, showing how countries varied in their ability to attract and support international students through structural and global factors.
+
+**How to use this**
+
+- This analysis was carried out as part of an ongoing learning journey, with the purpose of exploring data meaningfully rather than producing a finalised or commercial product.
+- It represents a study-based project where the focus is on understanding patterns through Unsupervised Learning Algorithm and clustering analysis
+- This work is a living document, open to iteration, feedback and collaboration, as its value lies not only in the results but also in the learning that comes from the process of discovery.
