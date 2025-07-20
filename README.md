@@ -98,15 +98,17 @@ This section used clustering analysis to explore how countries naturally group b
 
 **5.2 Exploring Country Groupings Using Hierarchical Clustering (Dendrogram)** 
 
-- After identifying that three clusters were optimal using the Elbow Method, we further explored the natural structure of the data using Hierarchical Clustering. This method produces a dendrogram, a  tree-like structure diagram showing how countries are grouped based on similarity across the following indicators:
+- After identifying that three clusters were optimal using the Elbow Method, we further explored the natural structure of the data using Hierarchical Clustering. This method
+  produces a dendrogram, creating a tree-like structure that shows how countries are grouped based on similarity across the following indicators:
   - International student mobility,
   - Tertiary education participation (ISCED 5–8),
   - QS World University Rankings (Top 50, 100, 500, 1000),
   - Inbound ratio and number of international students, and
   - Globalisation indices (Political, Economic and Social Globalisation Index).
 
-- Key interpretation points:
-  - Countries that merged at shorter horizontal distances were more similar to each other in their overall profiles across all indicators.
-  - The  color bands (e.g., green, blue, orange) represented how countries were grouped together at different levels of similarity. They helped illustrate the hierarchy of clusters formed during the clustering process.
+- Key Insights:
+  - Countries that merged at shorter horizontal distances were more similar to each other in their overall profiles across all indicators
+  - The color bands (e.g., green, blue, orange) represented how countries were grouped together at different levels of similarity. They helped illustrate the hierarchy of clusters
+    formed during the clustering anlaysis process.
 
 <img width="895" height="583" alt="Screenshot 2025-07-20 at 17 39 02" src="https://github.com/user-attachments/assets/1cb957e7-097b-4c7d-bd59-99f0928e8d9e" />
