@@ -85,11 +85,12 @@ Across the 42 countries studied, several key patterns were observed in relation 
 This section used clustering analysis to explore how countries naturally group based on similarities in tertiary education participation and globalisation indices. No predefined categories were applied as the aim was to let the data speak and reveal which countries tend to follow similar patterns.
 
 
-**5.1 Identifying Optimal Clusters Using K-Means Clustierng Elbow Method**
+**5.1  Identifying Optimal Clusters Using K-Means Clustering (Elbow Curve)**
 
-- Before applying clustering analysis, we needed to decide how many meaningful groups (clusters) to divide the countries into. We used the "Elbow Method" to determine the optimal number of clusters. The "elbow point" is where the curve starts to flatten, meaning adding more clusters beyond this point leads to only minor improvements in reducing the sum of squared errors.
-- We plotted values of k from 1 to 10 and identified the "elbow point" at k = 3. This suggests that dividing countries into three groups provided meaningful insights without overcomplicating the analysis. It aligned with the goal of unsupervised learning allowing the data to naturally form patterns without using predefined categories.
-
+- Before applying clustering analysis, we needed to decide how many meaningful groups (clusters) to divide the countries into.
+- We used the "Elbow Curve" to determine the optimal number of clusters. The "elbow point" is where the curve starts to flatten, meaning adding more clusters beyond this point leads to only minor improvements in reducing the sum of squared errors.
+- We plotted values of k from 1 to 10 and identified the "elbow point" at k = 3. This suggests that dividing countries into three groups provided meaningful insights without overcomplicating the analysis.
+- This approach supports the unsupervised learning goal of allowing the data to naturally form patterns without using predefined categories.
 <img width="989" height="490" alt="output_12_0" src="https://github.com/user-attachments/assets/e3768ced-f33b-496c-b7e9-12db4ae58c20" />
 
 ** 5.2
