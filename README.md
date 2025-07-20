@@ -128,6 +128,24 @@ Key insights:
 
 The insights in this analysis highlighted and demonstrated the value of a data-driven approach using unsupervised learning clustering to examine how combining globalisation indicators and education system characteristics can uncover meaningful natural patterns in international student mobility, without relying on predefined categories. Clustering analysis enabled natural groupings to emerge from the data, showing how countries varied in their ability to attract and support international students through structural and global factors.
 
+**Project Files**
+
+Power BI Dashboard File (Click on View Raw):
+WeatherDashboard.pbix
+
+Dashboard Overview (PDF Preview):
+Dashboard Overview (PDF)
+
+How to use this project:
+
+Refresh the Power BI dashbord file to pull the latest API data. This ensures you're working with real-time information.
+
+Data analysis is an ongoing process and continuous improvement and innovation are key to long-term success. I believe every analyst’s journey is strengthened by an open mindset and a willingness to receive feedback. I welcome your thoughts, suggestions and collaboration on this project.
+
+Feel free to download, explore, and adapt it to better understand how real-time data can be modeled and visualized in Power BI.
+
+⚠️ Disclaimer: This dashboard is intended for visual learning and demonstration purposes only — not for business or operational use.
+
 **How to use this**
 
 - This analysis was carried out as part of an ongoing learning journey, with the purpose of exploring data meaningfully rather than producing a finalised or commercial product.
