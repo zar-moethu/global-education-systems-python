@@ -138,11 +138,11 @@ The insights in this analysis highlighted and demonstrated the value of a data-d
 *Python Code*:
   [View Python_Code.ipynb](https://github.com/zar-moethu/world-education-systems-python/blob/main/Python_Code.ipynb)
 
-*Dataset(Click on View Raw)*:
+*Dataset*:
 [Download raw file](https://github.com/zar-moethu/world-education-systems-python/raw/main/dataset.xlsx)
 
-*Output Folder*:
-You can view all exported visualisations and charts in the [**Output** folder](https://github.com/zar-moethu/world-education-systems-python/tree/main/Output).
+*Output Visuals*:
+[Output folder](https://github.com/zar-moethu/world-education-systems-python/tree/main/Output).
 
 
 WeatherDashboard.pbix
