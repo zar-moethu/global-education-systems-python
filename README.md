@@ -54,25 +54,24 @@ To understand the data structure and identify patterns before clustering, we per
 
 **Summary statistics:**  
 
-Across the 42 countries studied, two key patterns emerge in relation to international student engagement:
+Across the 42 countries studied, several key patterns emerge in relation to international student engagement:
 
 - On average, 9% of all students enrolled in tertiary education are international students, though this varies widely — from as low as 0.22% to as high as 35.29%, depending on the country. The number of international students also differs significantly: while the average is 117,317 students, some countries host nearly one million (maximum = 976,562), while others have only a few thousand.
 - Bachelor’s level (ISCED 6) dominates tertiary education systems, with an average share of 45.24%, while Master’s level (ISCED 7) follows at 14.23%.
 - Doctoral-level participation (ISCED 8) is the smallest segment, averaging just 2.10%. Most countries fall between 0.00% and 5.15%, suggesting this level remains specialised and selective due to longer study duration, competitive entry and limited institutional capacity or funding.
 - Overall globalisation indices are relatively high across the sample, with political = 84.95, economic = 71.98 and social = 79.98 on average.
 
-
-
 <img width="790" height="408" alt="Screenshot 2025-07-20 at 13 54 10" src="https://github.com/user-attachments/assets/862a6d1f-e139-40d7-9038-2d353d5b6c34" />
 
 **Visualisation - Percentage Distribution of Education Levels by Country:**
 
-- Compared participation rates in ISCED Levels 5 to 8 across countries.  
-- Used a vertical stacked bar chart to show the distribution of tertiary education participation by level.
+- Compared participation rates in ISCED Levels 5 to 8 across countries using a vertical stacked bar chart to show the distribution of tertiary education participation by level.
 
-- This visual below showed that some countries have a more balanced distribution across all ISCED levels, while others are heavily concentrated in certain tiers (e.g., Bachelor’s or Master’s level).
-- Australia and Sweden, both classified as developed countries (WESP), show high overall tertiary participation, with significant contributions across multiple ISCED levels, indicating a more developed and layered higher education system.
-- Turkey shows relatively even participation across short-cycle tertiary (e.g., associate degree, foundation degree), bachelor’s, and master’s levels (ISCED levels 5, 6, and 7 respectively), but comparatively limited engagement at the doctoral level (ISCED 8).
+- The visual shows that some countries have a more balanced distribution across all ISCED levels, while others are heavily concentrated in certain tiers (e.g. bachelor’s or master’s level).
+
+- Australia and Sweden, both classified as developed countries (WESP), show high overall tertiary participation with significant contributions across multiple ISCED levels, indicating a more developed and layered higher education system.
+
+- Turkey shows relatively even participation across short-cycle tertiary (e.g. associate degree or foundation degree), bachelor’s and master’s levels (ISCED Levels 5, 6 and 7 respectively), but comparatively limited engagement at the doctoral level (ISCED 8).
 
 <img width="1490" height="590" alt="output_9_0" src="https://github.com/user-attachments/assets/0a46fba4-0544-4245-93fa-eecc3faeb075" />
 
