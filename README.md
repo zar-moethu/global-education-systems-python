@@ -81,7 +81,7 @@ Across the 42 countries studied, several key patterns were observed in relation 
   
 <img width="987" height="1189" alt="output_10_0" src="https://github.com/user-attachments/assets/6407b74c-8256-43fe-8354-e15ff5fdfe36" />
 
-### 5. Data Analysis – Discovering Patterns Using Unsupervised learning clustering
+### 5. Data Analysis – Clustering Analysis
 
 This section used clustering analysis to explore how countries naturally group based on similarities in tertiary education participation and globalisation indices. No predefined categories were applied as the aim was to let the data speak and reveal which countries inclined to follow similar patterns.
 
