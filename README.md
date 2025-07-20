@@ -55,7 +55,7 @@ To understand the data structure and identify patterns before applying clusterin
 
 Across the 42 countries studied, several key patterns were observed in relation to international student engagement:
 
-- On average, 9% of all students enrolled in tertiary education were international students, though this varied widely — from as low as 0.22% to as high as 35.29%, depending on the country.
+- On average, 9% of all students enrolled in tertiary education were international students, though this varied widely from as low as 0.22% to as high as 35.29%, depending on the country.
 - The number of international students also differed significantly: the average was 117,317 students, but some countries hosted nearly one million (maximum = 976,562), while others had only a few thousand (minimum = 1,546).
 - Bachelor’s level (ISCED 6) dominated tertiary education systems, with an average share of 45.24%, while master’s level (ISCED 7) follows at 14.23%.
 - Doctoral level tertiary education participation (ISCED 8) was the smallest segment, averaging just 2.10%. Most countries fell between 0.00% and 5.15%, suggesting this level remained specialised and selective due to longer study duration, competitive entry and limited institutional capacity or funding.
@@ -147,8 +147,7 @@ The insights in this analysis highlighted and demonstrated the value of a data-d
 
 **📘How to Use This**
 
-- Data analysis is an ongoing learning journey, focused on exploring data meaningfully rather than producing a finalised or commercial product.
-- This work is a living document, open to iteration, feedback and collaboration, as its value lies not only in the results but also in the learning that comes from the process of discovery.
-- Feel free to download the code, dataset and explore the notebooks or visualisations for your own learning or inspiration.
+- You are welcome to explore the code, dataset and visualisations for learning, reference or further development.
+- Data analysis is an ongoing learning journey. This work is a living document, open to iteration, feedback and collaboration, as its value lies not only in the results but also in the learning that comes from the process of discovery.
 
 ⚠️ Disclaimer: This dashboard is intended for visual learning and demonstration purposes only — not for business or operational use.
