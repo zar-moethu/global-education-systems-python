@@ -69,7 +69,7 @@ Across the 42 countries studied, several key patterns were observed in relation 
 - Australia and Sweden, both classified as developed countries (WESP), showed high overall tertiary participation with significant contributions across multiple ISCED levels, indicating a more developed and layered higher education system..
 - Turkey showed relatively even participation across short-cycle tertiary (e.g. associate degree or foundation degree), bachelor’s and master’s levels (ISCED Levels 5, 6 and 7 respectively), but had comparatively limited engagement at the doctoral level (ISCED 8).
 
-<img width="1490" height="590" alt="output_9_0" src="https://github.com/user-attachments/assets/c47afe81-9f52-4b40-96f9-80f4de899a37" />
+<img width="1490" height="590" alt="Percentage_Education_Levels" src="https://github.com/user-attachments/assets/7c397215-69a3-469c-9a0f-1682ee630a27" />
 
 
 **4.3 Visulisation - Percentage Distribution of University Rankings by Country:**  
@@ -78,8 +78,7 @@ Across the 42 countries studied, several key patterns were observed in relation 
 - In contrast, countries like Ireland, Finland and Germany demonstrated a more even spread of university representation across the top 100 and top 500 tiers, suggesting broader academic strength.
 -  New Zealand showed a strong mid-tier presence, with nearly half of its ranked universities falling in the top 500 tier and the rest in the top 1000. Only 6% of its universities appeared in the top 50.
 - Countries such as the United States, United Kingdom, Switzerland and Australia showed stronger representation in the top 50 and top 100, with many of their institutions recognised as leading at the global level.
-  
-<img width="987" height="1189" alt="output_10_0" src="https://github.com/user-attachments/assets/6407b74c-8256-43fe-8354-e15ff5fdfe36" />
+<img width="987" height="1189" alt="Percentage_University_Ranking" src="https://github.com/user-attachments/assets/63b08572-9743-4876-87a8-9fa5d48f0463" />
 
 ### 5. Data Analysis – Clustering Analysis
 
@@ -93,8 +92,10 @@ This section used clustering analysis to explore how countries naturally group b
 - We then needed to decide how many meaningful groups (clusters) to divide the countries into.
 - The “Elbow Curve” method was used to determine the optimal number of clusters. The elbow point is where the curve starts to flatten, indicating that adding more clusters beyond this point provides only marginal improvement in reducing within-cluster variance.
 - We plotted k-values from 1 to 10 and observed that the elbow occurred at k = 3. This suggested that dividing the countries into three clusters captured key patterns without overfitting.
-- This method aligned with the purpose of using unsupervised learning, as it allowed natural groupings to emerge from the data without relying on predefined categories
-<img width="989" height="490" alt="output_12_0" src="https://github.com/user-attachments/assets/e3768ced-f33b-496c-b7e9-12db4ae58c20" />
+- This method aligned with the purpose of using unsupervised learning, as it allowed natural groupings to emerge from the data without relying on predefined categories.
+
+<img width="989" height="490" alt="Elbow_Curve" src="https://github.com/user-attachments/assets/b5c2cb83-7ad9-4914-b8eb-e58b8ca23f45" />
+
 
 **5.2 Exploring Country Groupings Using Hierarchical Clustering (Dendrogram)** 
 
@@ -111,7 +112,8 @@ This section used clustering analysis to explore how countries naturally group b
   - The color bands (e.g., green, blue, orange) represented how countries were grouped together at different levels of similarity. They helped illustrate the hierarchy of clusters
     formed during the clustering anlaysis process.
 
-<img width="895" height="583" alt="Screenshot 2025-07-20 at 17 39 02" src="https://github.com/user-attachments/assets/1cb957e7-097b-4c7d-bd59-99f0928e8d9e" />
+<img width="790" height="690" alt="ierarchical _Clustering_Dendrogram)" src="https://github.com/user-attachments/assets/51f5bfe4-40e4-447d-a649-608b2edf7a2e" />
+
 
 **5.3 Exploring Cluster Analysis Between Master’s-Level Participation and Economic Globalisation Index** 
 
@@ -120,9 +122,12 @@ This section used clustering analysis to explore how countries naturally group b
 
 Key insights:
 
-  - Cluster 0 (green) included countries such as Germany, Netherlands, New Zealand, Sweden, Austria, Australia and Ireland. These countries recorded both high Master’s-level participation and strong economic globalisation scores. This reflects well-developed postgraduate systems and high levels of global integration, making them attractive destinations for international students.
-  - Cluster 1 (orange) included countries like the United States and United Kingdom. While these countries were highly globalised economically, their Master’s-level participation was comparatively moderate. Although globally connected, the proportion of students in Master’s programmes was lower than in countries in Cluster 0.
-  - Cluster 2 (red) consisted of countries such as China, Brazil, Argentina and South Africa. These countries had lower values for both Master’s-level participation and economic globalisation. This pattern suggests more limited engagement with international postgraduate education, potentially due to domestic education priorities or barriers to cross-border academic exchange.
+  - 🟢 Cluster 0 (green) included countries such as Germany, Netherlands, New Zealand, Sweden, Austria, Australia and Ireland. These countries recorded both high Master’s-level participation and strong economic globalisation scores. This reflects well-developed postgraduate systems and high levels of global integration, making them attractive destinations for international students.
+  - 🟠 Cluster 1 (orange) included countries like the United States and United Kingdom. While these countries were highly globalised economically, their Master’s-level participation was comparatively moderate. Although globally connected, the proportion of students in Master’s programmes was lower than in countries in Cluster 0.
+  - 🔴 Cluster 2 (red) consisted of countries such as China, Brazil, Argentina and South Africa. These countries had lower values for both Master’s-level participation and economic globalisation. This pattern suggests more limited engagement with international postgraduate education, potentially due to domestic education priorities or barriers to cross-border academic exchange.
+
+<img width="1975" height="790" alt="output_14_0" src="https://github.com/user-attachments/assets/781e1a1c-e528-422b-b273-dfd290207755" />
+
 
 **Conclusion**
 
@@ -130,7 +135,8 @@ The insights in this analysis highlighted and demonstrated the value of a data-d
 
 **Project Files**
 
-[View Python_Code.ipynb](https://github.com/zar-moethu/world-education-systems-python/blob/main/Python_Code.ipynb)
+- [View Python_Code.ipynb](https://github.com/zar-moethu/world-education-systems-python/blob/main/Python_Code.ipynb)
+- [Dataset
 
 WeatherDashboard.pbix
 
