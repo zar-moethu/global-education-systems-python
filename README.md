@@ -40,7 +40,7 @@ The following features/variables are used in this analysis:
 | `WESP`                   | World Economic Situation and Prospects|
 
 **Note:**  
-Other decomposed KOF indicators (e.g. KOFGIdf, KOFTrGIdj, etc.) exist in the full dataset but are not used in this study for simplicity and relevance. This project focuses on understanding how globalisation and higher education metrics relate to inbound student mobility and university rankings.
+Other decomposed KOF indicators (e.g. KOFGIdf, KOFTrGIdj, etc.) exist in the full dataset but are not used in this study for simplicity and relevance. This project focused on understanding how globalisation and higher education metrics relate to inbound student mobility and university rankings.
 
 ### 3. Data Cleaning and Preparation
 - Checked for missing values across selected features/variables
@@ -112,3 +112,16 @@ This section used clustering analysis to explore how countries naturally group b
     formed during the clustering anlaysis process.
 
 <img width="895" height="583" alt="Screenshot 2025-07-20 at 17 39 02" src="https://github.com/user-attachments/assets/1cb957e7-097b-4c7d-bd59-99f0928e8d9e" />
+
+**Exploring Cluster Analysis Between Master’s-Level Participation and Economic Globalisation Index** 
+- To further understand the profiles of countries from the dendrogram in Section 5.2, we explored how the hierarchical clusters relate to Master’s-level participation (ISCED 7) and economic globalisation (KOF Economic Globalisation Index).
+- We can choose any two variables to visualise the clusters in two dimensions. In this analysis, we explored how Master’s-level participation (ISCED 7) and economic globalisation (KOFEcGI) may link to a country’s capacity to attract and integrate international students
+
+- Key Insights:
+
+  - (i) Cluster 0 (Green) consists of countries such as Germany, Netherlands, New Zealand, Sweden, Australia, and Ireland.These countries show high levels of Master’s-level participation (ISCED 7) and strong scores on the economic globalisation index (KOFEcGI). This indicates that they have well-established postgraduate education systems and are deeply integrated into the global economy, making them attractive destinations for international postgraduate students seeking both academic and career opportunities
+  - (ii) Cluster 1 (Orange) includes a few transitional cases like the United Kingdom and the USA. These countries show moderate globalisation scores and diverse participation rates, suggesting they bridge between highly globalised/educated nations and those still developing in these aspects.
+  - Cluster 2 (Red) includes countries such as China, Brazil, Argentina, and South Africa. These countries tend to have lower participation in Master’s-level education and lower economic globalisation index, reflecting different education structures and economic positioning.
+
+
+
