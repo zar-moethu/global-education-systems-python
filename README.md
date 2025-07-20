@@ -50,7 +50,7 @@ Other decomposed KOF indicators (e.g. KOFGIdf, KOFTrGIdj, etc.) exist in the ful
 
 ### 4. Exploratory Data Analysis (EDA)
 
-To understand the data structure and identify patterns before clustering, we performed:
+To understand the data structure and identify patterns before applying clustering analysis, we performed:
 
 **4.1 Summary statistics:**  
 
